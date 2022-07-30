@@ -1,5 +1,3 @@
-![](https://datamesse.github.io/static/media/storyset-sentiment-analysis-rafiki-animated.2a24a8e5.svg)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=vue)
 
 [![Top Languages Panel](https://github-readme-stats.vercel.app/api/top-langs/?username=datamesse&theme=vue)](https://github.com/datamesse/github-readme-stats)
