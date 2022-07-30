@@ -1,9 +1,3 @@
-### Data Messe
-
-Data analytics enthusiast proficient in a variety of tools
-
-* Twitter: [@data_messe](https://twitter.com/data_messe/)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=vue)
 
 [![Top Languages Panel](https://github-readme-stats.vercel.app/api/top-langs/?username=datamesse&theme=vue)](https://github.com/datamesse/github-readme-stats)
