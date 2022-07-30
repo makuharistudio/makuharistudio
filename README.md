@@ -1,5 +1,9 @@
 ### Data Messe
 
+Data analytics enthusiast proficient in a variety of tools
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=vue)
+
 * Twitter: [@data_messe](https://twitter.com/data_messe/)
 
 [![Top Languages Panel](https://github-readme-stats.vercel.app/api/top-langs/?username=datamesse&theme=tokyonight)](https://github.com/datamesse/github-readme-stats)
@@ -8,4 +12,4 @@
 
 ###### Panels from [https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=vue)
+
