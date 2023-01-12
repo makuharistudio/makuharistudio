@@ -2,7 +2,7 @@ I love learning about data and technology.
 
 My current specialties are Excel, Power BI, and SQL, and I am currently self-studying Python.
 
-My latest project work and blog posts across these technologies here:
+You can find my latest project work and blog posts across these technologies here:
 
 ## [https://datamesse.github.io](https://datamesse.github.io)
 
