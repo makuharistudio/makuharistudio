@@ -9,6 +9,8 @@ My latest project work and blog posts across these technologies here:
 [![My Power BI report](https://github.com/datamesse/datamesse.github.io/blob/main/src/assets-portfolio/img-2022-12-portfolio-website-react-v3.gif?raw=true)](https://datamesse.github.io)
 
 
+### My GitHub stats
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=tokyonight)
 
 In the distant past, I also dabbled at a hobbyist level in:
