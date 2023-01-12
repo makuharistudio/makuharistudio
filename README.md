@@ -1,8 +1,10 @@
 I love learning about data and technology.
 
-You can find my latest project wok and blog here:
+My current specialisations are Excel, Power BI, and SQL, and I am currently self-studying Python.
 
-**[https://datamesse.github.io](https://datamesse.github.io)**
+You can find my latest project work and blog posts across these technologies here:
+
+### [https://datamesse.github.io](https://datamesse.github.io)
 
 In the distant past, I dabbled at a hobbyist level in:
 * Android Studio and Eclipse for mobile development
