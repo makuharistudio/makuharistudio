@@ -1,15 +1,15 @@
 I love learning about data and technology.
 
-My current specialisations are Excel, Power BI, and SQL, and I am currently self-studying Python.
+My current specialties are Excel, Power BI, and SQL, and I am currently self-studying Python.
 
-You can find my latest project work and blog posts across these technologies here:
+My latest project work and blog posts across these technologies here:
 
 ### [https://datamesse.github.io](https://datamesse.github.io)
 
 In the distant past, I dabbled at a hobbyist level in:
-* Android Studio and Eclipse for mobile development
-* SharePoint Designer for site theme design
 * Tableau for my first entry into data visualisation
+* SharePoint Designer for intranet theme design
+* Android Studio and Eclipse for mobile development
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=tokyonight)
