@@ -12,7 +12,6 @@ You can find my latest project work and blog posts across these technologies her
 ### My GitHub stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=nord_bright)
-
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datamesse&theme=nord_bright) ![Top 10 Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datamesse&theme=nord_bright)
 
 #### Panel from:
