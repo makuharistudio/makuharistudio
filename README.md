@@ -15,10 +15,6 @@ You can find my latest project work and blog posts across these technologies her
 
 ![Top 10 Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datamesse&theme=nord_bright)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datamesse&langs_count=8&theme=nord_bright)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=datamesse&theme=nord_bright)
-
 ![Test](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datamesse&theme=nord_bright)
 
 #### Panel from:
