@@ -12,7 +12,7 @@ You can find my latest project work and blog posts across these technologies her
 # My GitHub stats
 
 ![Area chart of commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=datamesse&theme=nord_bright)
-![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=nord_bright) ![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datamesse&theme=nord_bright)
+![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=datamesse&theme=nord_bright) ![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=datamesse&theme=nord_bright)
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=datamesse&theme=nord_bright)
 
 ### Panels from:
