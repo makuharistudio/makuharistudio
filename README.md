@@ -17,5 +17,7 @@ You can find my latest project work and blog posts across these technologies her
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=datamesse&theme=default)
 
+![Top 10 Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default
+
 #### Panel from:
 * **[https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g](https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g)**
