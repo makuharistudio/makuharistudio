@@ -1,6 +1,6 @@
 I love learning about data and technology.
 
-My current specialties are Excel, Power BI, and SQL, and I am currently self-studying Python.
+My current specialties are Excel, Power BI, and SQL.
 
 You can find my latest project work and blog posts across these technologies here:
 
