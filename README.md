@@ -6,7 +6,7 @@ You can find my latest project work and blog posts across these technologies her
 
 ## [https://datamesse.github.io](https://datamesse.github.io)
 
-[![My Power BI report]([https://github.com/datamesse/datamesse.github.io/blob/main/src/assets-portfolio/img-2022-12-portfolio-website-react-v3.gif?raw=true](https://github.com/datamesse/datamesse.github.io/blob/main/src/assets-portfolio/img-2023-07-portfolio-website-react-v4-long.gif?raw=true))](https://datamesse.github.io)
+[![My Power BI report](https://github.com/datamesse/datamesse.github.io/blob/main/src/assets-portfolio/img-2023-07-portfolio-website-react-v4-long.gif?raw=true)](https://datamesse.github.io)
 
 
 # My GitHub stats
