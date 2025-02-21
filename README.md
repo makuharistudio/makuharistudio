@@ -6,9 +6,6 @@ You can find my latest project work and blog posts across these technologies her
 
 ## [https://makuharistudio.github.io](https://makuharistudio.github.io)
 
-[![My Power BI report](https://github.com/makuharistudio/makuharistudio.github.io/blob/main/src/assets-portfolio/img-2023-07-portfolio-website-react-v4-long.gif?raw=true)](https://makuharistudio.github.io)
-
-
 # My GitHub stats
 
 ![Area chart of commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makuharistudio&theme=nord_bright)
